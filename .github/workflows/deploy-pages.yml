@@ -28,4 +28,5 @@ jobs:
           allow_empty_commit: false
 
       - name: Print deployed site URL
-        run: echo "GitHub Pages site: https://diogoalfa.github.io/plansaludinteligente_landingpage/"
+        run: |
+          echo "GitHub Pages site: https://diogoalfa.github.io/plansaludinteligente_landingpage/"
