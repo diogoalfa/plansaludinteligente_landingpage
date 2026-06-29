@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="624" viewBox="0 0 1640 624" role="img" aria-labelledby="title desc">
+  <title id="title">Portada Facebook Plan Salud Inteligente</title>
+  <desc id="desc">Portada profesional en verde claro para Facebook.</desc>
+  <defs>
+    <linearGradient id="coverBg" x1="0" y1="0" x2="1640" y2="624" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#084940"/>
+      <stop offset="0.52" stop-color="#0B6257"/>
+      <stop offset="1" stop-color="#BFE9DD"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8FAF7"/>
+      <stop offset="1" stop-color="#EAF4F0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#061B18" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  <rect width="1640" height="624" fill="url(#coverBg)"/>
+  <path d="M1118-92c179 66 305 198 390 397 41 96 84 178 164 247v72H835c50-57 97-127 119-224 43-194-19-379 164-492Z" fill="#F8FAF7" opacity="0.16"/>
+  <path d="M1270 74c128 49 218 144 279 287 29 69 60 127 118 176v87h-596c35-41 69-91 85-161 31-139-14-271 114-389Z" fill="#F8FAF7" opacity="0.2"/>
+
+  <g transform="translate(1040 86)" filter="url(#shadow)">
+    <circle cx="226" cy="226" r="226" fill="url(#panel)"/>
+    <path d="M226 48c60 44 118 56 176 61 6 167-52 272-176 317C102 381 44 276 50 109c58-5 116-17 176-61Z" fill="#0B6257"/>
+    <path d="M226 101c41 28 80 38 121 43 0 112-39 183-121 217-82-34-121-105-121-217 41-5 80-15 121-43Z" fill="#F8FAF7"/>
+    <path d="M226 135c27 0 50 20 57 47 26-12 57 1 68 28 15 38-11 78-125 139-114-61-140-101-125-139 11-27 42-40 68-28 7-27 30-47 57-47Z" fill="#0B6257"/>
+    <path d="M165 246h47l21-47 37 95 22-48h43" fill="none" stroke="#BFE9DD" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M324 300c40-5 70-32 79-69 27 24 40 54 40 89 0 77-63 139-141 139-33 0-63-11-87-30 66-28 103-69 109-129Z" fill="#EB6F5F" opacity="0.96"/>
+    <path d="M324 300c-3 24-12 46-26 65 37-6 67-27 85-58-18 2-38-1-59-7Z" fill="#F8FAF7" opacity="0.92"/>
+  </g>
+
+  <g transform="translate(108 112)">
+    <text x="0" y="82" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="82" font-weight="850">Plan Salud</text>
+    <text x="0" y="174" fill="#BFE9DD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="82" font-weight="850">Inteligente</text>
+    <text x="0" y="246" fill="#F8FAF7" opacity="0.92" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Asesoria en Isapres y planes de salud</text>
+    <g transform="translate(0 310)">
+      <rect x="0" y="0" width="510" height="68" rx="34" fill="#BFE9DD"/>
+      <text x="255" y="44" text-anchor="middle" fill="#06221E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="850">Atencion clara y cercana</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="624" viewBox="0 0 1640 624" role="img" aria-labelledby="title desc">
+  <title id="title">Portada Facebook Plan Salud Inteligente con WhatsApp</title>
+  <desc id="desc">Portada profesional de Facebook con numero de WhatsApp +56 9 9722 5612.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1640" y2="624" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#084940"/>
+      <stop offset="0.52" stop-color="#0B6257"/>
+      <stop offset="1" stop-color="#BFE9DD"/>
+    </linearGradient>
+    <linearGradient id="markFill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#BFE9DD"/>
+      <stop offset="0.55" stop-color="#5EC6AF"/>
+      <stop offset="1" stop-color="#0B6257"/>
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8FAF7"/>
+      <stop offset="1" stop-color="#EAF4F0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#061B18" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="1640" height="624" fill="url(#bg)"/>
+  <circle cx="1270" cy="318" r="470" fill="#F8FAF7" opacity="0.16"/>
+  <circle cx="1420" cy="410" r="350" fill="#F8FAF7" opacity="0.22"/>
+  <path d="M0 510c205-58 348-42 530 22 195 68 337 70 522 0v92H0Z" fill="#06221E" opacity="0.18"/>
+
+  <g transform="translate(106 106)">
+    <text x="0" y="76" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="850" letter-spacing="0">Plan Salud</text>
+    <text x="0" y="160" fill="#BFE9DD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="850" letter-spacing="0">Inteligente</text>
+    <rect x="0" y="198" width="515" height="4" rx="2" fill="#BFE9DD"/>
+    <text x="0" y="256" fill="#F8FAF7" opacity="0.94" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650" letter-spacing="0">Asesoria clara, profesional y cercana</text>
+    <g transform="translate(0 314)">
+      <rect width="574" height="78" rx="39" fill="#BFE9DD"/>
+      <circle cx="46" cy="39" r="22" fill="#0B6257"/>
+      <path d="M36 31c6-7 16-7 22 0 5 7 4 17-3 23-5 4-12 5-18 2l-13 4 5-12c-4-6-2-13 7-17Z" fill="#F8FAF7"/>
+      <text x="88" y="50" fill="#06221E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="850" letter-spacing="0">+56 9 9722 5612</text>
+    </g>
+  </g>
+
+  <g transform="translate(1036 76)" filter="url(#shadow)">
+    <circle cx="236" cy="236" r="236" fill="url(#soft)"/>
+    <path d="M236 51c60 44 117 55 174 60 6 166-51 270-174 314C113 381 56 277 62 111c57-5 114-16 174-60Z" fill="url(#markFill)"/>
+    <path d="M236 104c41 28 79 38 120 43 0 111-38 181-120 216-82-35-120-105-120-216 41-5 79-15 120-43Z" fill="#F8FAF7" opacity="0.96"/>
+    <path d="M236 136c27 0 50 20 57 47 26-11 57 1 68 28 15 38-11 78-125 139-114-61-140-101-125-139 11-27 42-39 68-28 7-27 30-47 57-47Z" fill="#0B6257"/>
+    <path d="M175 247h47l21-47 38 95 22-48h43" fill="none" stroke="#BFE9DD" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M334 301c40-6 70-32 79-69 27 24 40 55 40 89 0 77-63 139-142 139-32 0-62-10-86-29 66-28 103-70 109-130Z" fill="#EB6F5F" opacity="0.96"/>
+    <path d="M334 301c-3 24-12 46-26 65 37-6 67-27 85-58-18 2-38-1-59-7Z" fill="#F8FAF7" opacity="0.92"/>
+  </g>
+</svg>
