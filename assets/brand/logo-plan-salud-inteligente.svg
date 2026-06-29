@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Plan Salud Inteligente</title>
+  <desc id="desc">Logo profesional en verde claro y teal para asesoria de planes de salud.</desc>
+  <defs>
+    <linearGradient id="markFill" x1="80" y1="46" x2="338" y2="372" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BFE9DD"/>
+      <stop offset="0.55" stop-color="#5EC6AF"/>
+      <stop offset="1" stop-color="#0B6257"/>
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8FAF7"/>
+      <stop offset="1" stop-color="#EAF4F0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#092D28" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" fill="#F8FAF7"/>
+
+  <g transform="translate(68 44)" filter="url(#shadow)">
+    <circle cx="166" cy="166" r="166" fill="url(#soft)"/>
+    <path d="M166 36c42 31 82 39 122 42 4 116-36 189-122 220C80 267 40 194 44 78c40-3 80-11 122-42Z" fill="url(#markFill)"/>
+    <path d="M166 72c30 21 58 28 89 32 0 82-28 133-89 158-61-25-89-76-89-158 31-4 59-11 89-32Z" fill="#F8FAF7" opacity="0.96"/>
+    <path d="M166 99c19 0 35 14 40 33 18-8 40 1 48 20 11 27-8 56-88 99-80-43-99-72-88-99 8-19 30-28 48-20 5-19 21-33 40-33Z" fill="#0B6257"/>
+    <path d="M123 178h34l15-34 27 68 15-34h31" fill="none" stroke="#BFE9DD" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M236 225c29-4 51-23 57-50 19 17 29 39 29 64 0 56-46 101-102 101-24 0-46-8-64-22 48-20 75-50 80-93Z" fill="#EB6F5F" opacity="0.96"/>
+    <path d="M236 225c-2 17-8 33-19 47 27-4 49-19 62-41-13 1-28-1-43-6Z" fill="#F8FAF7" opacity="0.92"/>
+  </g>
+
+  <g transform="translate(470 104)">
+    <text x="0" y="76" fill="#10201D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="850" letter-spacing="0">Plan Salud</text>
+    <text x="0" y="160" fill="#0B6257" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="850" letter-spacing="0">Inteligente</text>
+    <rect x="0" y="198" width="520" height="4" rx="2" fill="#BFE9DD"/>
+    <text x="0" y="252" fill="#52615D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650" letter-spacing="0">Asesoria clara, profesional y cercana</text>
+  </g>
+</svg>

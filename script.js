@@ -5,8 +5,8 @@ const contact = {
   whatsappMessage:
     "Hola, quiero recibir asesoria sobre Isapres y planes de salud.",
   socials: {
-    instagram: "https://www.instagram.com/plansaludinteligente/",
-    facebook: "https://www.facebook.com/plansaludinteligente/",
+    instagram: "https://www.instagram.com/plansaludinteligentecl/",
+    facebook: "https://web.facebook.com/profile.php?id=61591155556064",
     linkedin: "https://www.linkedin.com/company/plansaludinteligente/",
   },
 };

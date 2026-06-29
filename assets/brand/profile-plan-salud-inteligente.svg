@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Foto perfil Plan Salud Inteligente</title>
+  <desc id="desc">Imagen cuadrada de perfil para redes sociales.</desc>
+  <rect width="1080" height="1080" fill="#0B6257"/>
+  <circle cx="540" cy="540" r="486" fill="#BFE9DD"/>
+  <circle cx="540" cy="540" r="418" fill="#F8FAF7"/>
+  <g transform="translate(214 188)">
+    <path d="M326 0c111 82 218 104 324 112 12 309-94 503-324 586C96 615-10 421 2 112 108 104 215 82 326 0Z" fill="#0B6257"/>
+    <path d="M326 98c75 52 148 70 224 79 0 209-72 340-224 404-152-64-224-195-224-404 76-9 149-27 224-79Z" fill="#F8FAF7" opacity="0.97"/>
+    <path d="M326 162c50 0 92 38 105 88 48-21 106 2 126 52 28 70-21 146-231 259-210-113-259-189-231-259 20-50 78-73 126-52 13-50 55-88 105-88Z" fill="#0B6257"/>
+    <path d="M214 370h88l39-88 69 176 40-88h81" fill="none" stroke="#BFE9DD" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M508 470c73-10 128-58 145-126 48 43 73 98 73 161 0 141-116 255-259 255-60 0-116-20-160-55 121-51 189-127 201-235Z" fill="#EB6F5F" opacity="0.96"/>
+    <path d="M508 470c-5 44-22 84-48 119 68-10 124-49 156-105-33 3-69-2-108-14Z" fill="#F8FAF7" opacity="0.92"/>
+  </g>
+  <text x="540" y="948" text-anchor="middle" fill="#0B6257" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="850">PSI</text>
+</svg>
