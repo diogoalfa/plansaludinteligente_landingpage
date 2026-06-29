@@ -26,3 +26,6 @@ jobs:
           publish_branch: gh-pages
           keep_files: false
           allow_empty_commit: false
+
+      - name: Print deployed site URL
+        run: echo "GitHub Pages site: https://diogoalfa.github.io/plansaludinteligente_landingpage/"
